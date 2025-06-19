@@ -2,6 +2,7 @@
     "userspace_version": "1.1",
     "build_targets": [
         ["shortcut/bridge75/ansi", "via"],
+        ["shortcut/bridge75/ansi_norgb", "via"],
         ["shortcut/bridge75/iso", "via"]
     ]
 }
