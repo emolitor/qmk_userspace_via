@@ -1,7 +1,7 @@
 {
     "name": "Bridge75",
-    "vendorId":  "0x0094",
-    "productId": "0xFEFE",
+    "vendorId": "0xFFFE",
+    "productId": "0x0094",
     "keycodes": ["qmk_lighting"],
     "menus": [
       {

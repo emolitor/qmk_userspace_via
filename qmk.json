@@ -2,7 +2,10 @@
     "userspace_version": "1.1",
     "build_targets": [
         ["neo/neo65_trimode", "via"],
+        ["neo/neo70_trimode", "via"],
         ["neo/neo80_trimode", "via"],
+        ["neo/neoergo_trimode", "via"],
+        ["qwertykeys/qk65v2classic", "via"],
         ["shortcut/bridge75/ansi", "via"],
         ["shortcut/bridge75/ansi_norgb", "via"],
         ["shortcut/bridge75/iso", "via"]
