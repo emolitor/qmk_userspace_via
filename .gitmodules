@@ -1,0 +1,3 @@
+[submodule "modules/emolitor"]
+	path = modules/emolitor
+	url = https://github.com/emolitor/qmk_modules.git
