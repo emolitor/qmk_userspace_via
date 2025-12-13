@@ -7,7 +7,10 @@
         ["neo/neoergo_trimode", "via"],
         ["qwertykeys/qk65v2classic", "via"],
         ["shortcut/bridge75/ansi", "via"],
+        ["shortcut/bridge75/ansi_wired", "via"],
         ["shortcut/bridge75/ansi_norgb", "via"],
+        ["shortcut/bridge75/ansi_norgb_wired", "via"],
         ["shortcut/bridge75/iso", "via"]
+        ["shortcut/bridge75/iso_wired", "via"]
     ]
 }
